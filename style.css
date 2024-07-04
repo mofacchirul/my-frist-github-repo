@@ -1,3 +1,29 @@
 div {
     background-color: tomato;
+    padding: 10px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    text-align: justify;
+
+}
+div h1,a{
+    text-align: center;
+    color: white;
+}
+
+.ul-item {
+    color: white ;
+list-style: none;
+font-size: medium;
+font-weight: bolder;
+
+display: flex;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.ul-item li {
+    padding: 5px;
+    margin: 4px 8px;
 }
